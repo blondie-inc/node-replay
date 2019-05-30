@@ -1,4 +1,4 @@
-const HTTP = require('http');
+const HTTP = require('https');
 const Zlib = require('zlib');
 
 const ClientRequest = HTTP.ClientRequest;
